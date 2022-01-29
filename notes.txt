@@ -1,4 +1,0 @@
-cd Learngit
-git status
-touch notes.txt
-git clone https://github.com/KaushalMore/Learngit.git
